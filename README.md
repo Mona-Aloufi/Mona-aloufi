@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Mona Alawfi
+- 👋 Hi, I’m Mona Aloufi
 - 👀 I’m interested in Artificial intelligence 
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me monahalawfi@gmail.com
+- 📫 How to reach me aloufihmona@gmail.com
+  
 
 
 <!---
