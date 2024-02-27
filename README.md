@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mona Aloufi
-- 👀 I’m interested in Artificial intelligence 
+- 👀 I’m interested in programming & Artificial intelligence 
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me aloufihmona@gmail.com
   
