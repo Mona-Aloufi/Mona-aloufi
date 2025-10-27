@@ -43,5 +43,5 @@ I am dedicated to driving innovation and delivering scalable, data-driven impact
 | | Contact Information |
 | :--- | :--- |
 | **Email** | aloufihmona@gmail.com |
-| **LinkedIn** | [Your LinkedIn Profile] |
+| **LinkedIn** |[ [Your LinkedIn Profile] ](https://www.linkedin.com/in/mona-aloufi-1b8123242/)|
 | **GitHub** | **Mona-Aloufi** |
