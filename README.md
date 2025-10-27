@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/Mona_AI_Header.gif" alt="Mona Aloufi - AI & MLOps Specialist Banner">
+  <img src="./assets/Mona Aloufi_Header.gif" alt="Mona Aloufi - AI & MLOps Specialist Banner">
 </div>
 
 <div align="center">
